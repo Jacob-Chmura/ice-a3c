@@ -1,0 +1,19 @@
+# Byte-compiled / optimzied / DLL
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Dev
+.idea
+.vscode*
+
+# Logs and weights
+experiments/
+archived_experiments/
+weights/
+logs/
+
+# Notebooks
+*.ipynb
